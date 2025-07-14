@@ -1,0 +1,7 @@
+.env.local
+.env.production
+/cache
+/data
+/.idea
+/__pycache__
+/logs
